@@ -9,7 +9,7 @@ import HighlightBox from '../HighlightBox';
 import LazyIllustration from './';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/LazyIllustration',
+  title: 'triveous-h-d-designsystem/Components/LazyIllustration',
   component: LazyIllustration,
   parameters: {
     docs: {

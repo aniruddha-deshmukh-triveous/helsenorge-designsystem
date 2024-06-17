@@ -6,7 +6,7 @@ import Stepper from './Stepper';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Stepper',
+  title: 'triveous-h-d-designsystem/Components/Stepper',
   component: Stepper,
   parameters: {
     docs: {

@@ -17,7 +17,7 @@ const UseResizeObserverExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useResizeObserver',
+  title: 'triveous-h-d-designsystem/Hooks/useResizeObserver',
   component: UseResizeObserverExample,
   parameters: {
     docs: {

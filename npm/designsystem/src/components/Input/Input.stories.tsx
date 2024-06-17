@@ -13,7 +13,7 @@ type InputWithAndCustomArgs = React.ComponentProps<typeof Input> & {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Input',
+  title: 'triveous-h-d-designsystem/Components/Input',
   component: Input,
   parameters: {
     docs: {

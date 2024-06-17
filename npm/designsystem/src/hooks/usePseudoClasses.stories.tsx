@@ -21,7 +21,7 @@ const UsePseudoClassesExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/usePseudoClasses',
+  title: 'triveous-h-d-designsystem/Hooks/usePseudoClasses',
   component: UsePseudoClassesExample,
   parameters: {
     docs: {

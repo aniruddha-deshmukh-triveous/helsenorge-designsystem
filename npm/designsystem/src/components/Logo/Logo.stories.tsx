@@ -7,7 +7,7 @@ import { allLogoPaletteNames } from '../../../.storybook/knobs';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Logo',
+  title: 'triveous-h-d-designsystem/Components/Logo',
   component: Logo,
   parameters: {
     docs: {

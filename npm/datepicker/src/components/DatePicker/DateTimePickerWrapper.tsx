@@ -1,10 +1,9 @@
 import React from 'react';
 
 import classNames from 'classnames';
-
-import ErrorWrapper from '@helsenorge/designsystem-react/components/ErrorWrapper';
-import { useUuid } from '@helsenorge/designsystem-react/hooks/useUuid';
-import { isComponent } from '@helsenorge/designsystem-react/utils/component';
+import ErrorWrapper from 'triveous-h-d-designsystem/components/ErrorWrapper';
+import { useUuid } from 'triveous-h-d-designsystem/hooks/useUuid';
+import { isComponent } from 'triveous-h-d-designsystem/utils/component';
 
 import DatePicker, { DatePickerProps } from './DatePicker';
 import DateTime, { DateTimeProps } from './DateTime';

@@ -1,25 +1,54 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, ComponentType } from 'react';
 
 import { Locale, format, isValid, parse } from 'date-fns';
 import { nb } from 'date-fns/locale';
 import { ActiveModifiers, DayOfWeek, DayPickerSingleProps, SelectSingleEventHandler } from 'react-day-picker';
-
-import Button from '@helsenorge/designsystem-react/components/Button';
-import Icon from '@helsenorge/designsystem-react/components/Icon';
-import Calendar from '@helsenorge/designsystem-react/components/Icons/Calendar';
-import Input from '@helsenorge/designsystem-react/components/Input';
-import { KeyboardEventKey, ZIndex } from '@helsenorge/designsystem-react/constants';
-import { useKeyboardEvent } from '@helsenorge/designsystem-react/hooks/useKeyboardEvent';
-import { useOutsideEvent } from '@helsenorge/designsystem-react/hooks/useOutsideEvent';
-import { usePseudoClasses } from '@helsenorge/designsystem-react/hooks/usePseudoClasses';
-import { isMobileUA } from '@helsenorge/designsystem-react/utils/mobile';
-import { isMutableRefObject, mergeRefs } from '@helsenorge/designsystem-react/utils/refs';
+import Button from 'triveous-h-d-designsystem/components/Button';
+// import Icon from 'triveous-h-d-designsystem/components/Icon';
+import Calendar from 'triveous-h-d-designsystem/components/Icons/Calendar';
+import Input from 'triveous-h-d-designsystem/components/Input';
+import { KeyboardEventKey, ZIndex } from 'triveous-h-d-designsystem/constants';
+import { useKeyboardEvent } from 'triveous-h-d-designsystem/hooks/useKeyboardEvent';
+import { useOutsideEvent } from 'triveous-h-d-designsystem/hooks/useOutsideEvent';
+import { usePseudoClasses } from 'triveous-h-d-designsystem/hooks/usePseudoClasses';
+import { isMobileUA } from 'triveous-h-d-designsystem/utils/mobile';
+import { isMutableRefObject, mergeRefs } from 'triveous-h-d-designsystem/utils/refs';
 
 import DatePickerPopup from './DatePickerPopup';
 
 import styles from './styles.module.scss';
 
 export type DateFormat = 'dd.MM.yyyy';
+
+interface SvgPathProps {
+  size: number;
+  isHovered: boolean;
+}
+
+const Icon = ({
+  className,
+  size,
+  color,
+  svgIcon: SvgComponent,
+}: {
+  className: string;
+  size: number;
+  color: string;
+  svgIcon: ComponentType<SvgPathProps>;
+}) => {
+  return (
+    <svg
+      className={className}
+      width={size}
+      height={size}
+      viewBox="0 0 24 24" // Example viewBox, adjust as needed
+      fill={color}
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <SvgComponent size={size} isHovered={false} />
+    </svg>
+  );
+};
 
 export interface DatePickerProps
   extends Pick<React.InputHTMLAttributes<HTMLInputElement>, 'name' | 'aria-describedby' | 'onBlur' | 'autoComplete'>,
@@ -241,7 +270,7 @@ export const DatePicker = React.forwardRef((props: DatePickerProps, ref: React.R
               wrapperClassName={styles['date-button']}
               className={styles['date-button__inner']}
             >
-              {<Icon color={'black'} svgIcon={Calendar} />}
+              {<Icon color={'black'} svgIcon={Calendar} className={''} size={0} />}
             </Button>
           }
           autoComplete={autoComplete ? autoComplete : undefined}

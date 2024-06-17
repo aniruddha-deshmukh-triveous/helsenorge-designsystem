@@ -8,7 +8,7 @@ import Docs from '../../docs';
 import { getColor } from '../../theme/currys';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/NotificationPanel',
+  title: 'triveous-h-d-designsystem/Components/NotificationPanel',
   component: NotificationPanel,
   parameters: {
     docs: {

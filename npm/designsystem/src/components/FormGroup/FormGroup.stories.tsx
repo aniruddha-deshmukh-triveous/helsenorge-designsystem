@@ -16,7 +16,7 @@ import RadioButton from '../RadioButton/RadioButton';
 import './formGroup.stories.scss';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/FormGroup',
+  title: 'triveous-h-d-designsystem/Components/FormGroup',
   component: FormGroup,
   parameters: {
     docs: {

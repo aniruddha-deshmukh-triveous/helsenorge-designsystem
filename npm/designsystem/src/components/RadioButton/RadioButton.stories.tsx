@@ -10,7 +10,7 @@ import FormGroup from '../FormGroup';
 import Label from '../Label';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/RadioButton',
+  title: 'triveous-h-d-designsystem/Components/RadioButton',
   component: RadioButton,
   parameters: {
     docs: {

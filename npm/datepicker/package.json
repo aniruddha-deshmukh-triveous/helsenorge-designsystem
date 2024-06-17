@@ -1,17 +1,16 @@
 {
-  "name": "@helsenorge/datepicker",
+  "name": "triveous-h-d-datepicker",
   "sideEffects": false,
   "private": false,
-  "version": "7.9.0",
-  "description": "The official Helsenorge datepicker.",
+  "version": "1.0.3",
+  "description": "forked Helsenorge datepicker.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helsenorge/designsystem.git"
+    "url": "git@github.com:aniruddha-deshmukh-triveous/helsenorge-designsystem.git"
   },
-  "homepage": "https://helsenorge.design",
-  "author": "Helsenorge",
+  "author": "aniruddha",
   "maintainers": [
-    "ROX"
+    "aniruddha"
   ],
   "license": "MIT",
   "type": "module",
@@ -36,7 +35,7 @@
     "test": "vitest"
   },
   "peerDependencies": {
-    "@helsenorge/designsystem-react": "^7.0.0",
+    "triveous-h-d-designsystem": "^7.0.0",
     "classnames": "^2.5.1",
     "date-fns": "^3.3.1",
     "react": "^17.0.0",
@@ -46,7 +45,7 @@
     "react-day-picker": "^8.10.0"
   },
   "devDependencies": {
-    "@helsenorge/designsystem-react": "^7.9.0",
+    "triveous-h-d-designsystem": "^1.0.0",
     "@rollup/plugin-replace": "^5.0.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.5",

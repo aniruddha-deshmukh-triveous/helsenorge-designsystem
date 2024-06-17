@@ -8,7 +8,7 @@ import HighlightBox from '../HighlightBox';
 import Doctor from '../Illustrations/Doctor';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Illustration',
+  title: 'triveous-h-d-designsystem/Components/Illustration',
   component: Illustration,
   parameters: {
     docs: {

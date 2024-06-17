@@ -7,7 +7,7 @@ import Docs from '../../docs';
 import TooltipExample from '../TooltipExample';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Tooltip',
+  title: 'triveous-h-d-designsystem/Components/Tooltip',
   component: Tooltip,
   parameters: {
     docs: {

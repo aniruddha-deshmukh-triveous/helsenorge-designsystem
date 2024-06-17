@@ -20,7 +20,7 @@ const UseOutsideEventExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useOutsideEvent',
+  title: 'triveous-h-d-designsystem/Hooks/useOutsideEvent',
   component: UseOutsideEventExample,
   parameters: {
     docs: {

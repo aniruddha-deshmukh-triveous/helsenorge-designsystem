@@ -12,7 +12,7 @@ import VerticalDots from '../Icons/VerticalDots';
 import LazyIcon from '../LazyIcon';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Button',
+  title: 'triveous-h-d-designsystem/Components/Button',
   component: Button,
   parameters: {
     docs: {

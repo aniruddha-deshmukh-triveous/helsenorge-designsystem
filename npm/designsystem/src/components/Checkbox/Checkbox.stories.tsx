@@ -8,7 +8,7 @@ import Docs from '../../docs';
 import Label from '../Label/Label';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Checkbox',
+  title: 'triveous-h-d-designsystem/Components/Checkbox',
   component: Checkbox,
   parameters: {
     docs: {

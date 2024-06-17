@@ -6,7 +6,7 @@ import HelpPanel from './HelpPanel';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/HelpPanel',
+  title: 'triveous-h-d-designsystem/Components/HelpPanel',
   component: HelpPanel,
   parameters: {
     docs: {

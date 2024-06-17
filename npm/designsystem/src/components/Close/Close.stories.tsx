@@ -7,7 +7,7 @@ import Close from './Close';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Close',
+  title: 'triveous-h-d-designsystem/Components/Close',
   component: Close,
   parameters: {
     docs: {

@@ -11,7 +11,7 @@ const UseLayoutEventExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useLayoutEvent',
+  title: 'triveous-h-d-designsystem/Hooks/useLayoutEvent',
   component: UseLayoutEventExample,
   parameters: {
     docs: {

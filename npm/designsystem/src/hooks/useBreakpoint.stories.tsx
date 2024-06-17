@@ -13,7 +13,7 @@ const UseBreakpointExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useBreakpoint',
+  title: 'triveous-h-d-designsystem/Hooks/useBreakpoint',
   component: UseBreakpointExample,
   parameters: {
     docs: {

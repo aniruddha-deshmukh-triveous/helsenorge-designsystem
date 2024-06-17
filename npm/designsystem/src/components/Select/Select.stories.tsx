@@ -9,7 +9,7 @@ import { palette } from '../../theme/palette';
 import Label from '../Label';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Select',
+  title: 'triveous-h-d-designsystem/Components/Select',
   component: Select,
   parameters: {
     docs: {

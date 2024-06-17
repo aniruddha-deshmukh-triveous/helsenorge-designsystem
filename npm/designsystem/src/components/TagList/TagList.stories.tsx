@@ -7,7 +7,7 @@ import Docs from '../../docs';
 import Tag from '../Tag';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/TagList',
+  title: 'triveous-h-d-designsystem/Components/TagList',
   component: TagList,
   parameters: {
     docs: {

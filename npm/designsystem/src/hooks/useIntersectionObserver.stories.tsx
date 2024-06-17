@@ -22,7 +22,7 @@ const UseIntersectionObserverExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useIntersectionObserver',
+  title: 'triveous-h-d-designsystem/Hooks/useIntersectionObserver',
   component: UseIntersectionObserverExample,
   parameters: {
     docs: {

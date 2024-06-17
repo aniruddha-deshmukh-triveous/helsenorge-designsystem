@@ -21,7 +21,7 @@ const UseKeyboardEventExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useKeyboardEvent',
+  title: 'triveous-h-d-designsystem/Hooks/useKeyboardEvent',
   component: UseKeyboardEventExample,
   parameters: {
     docs: {

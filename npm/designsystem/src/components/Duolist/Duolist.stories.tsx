@@ -9,7 +9,7 @@ import AnchorLink from '../AnchorLink';
 import Title from '../Title';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Duolist',
+  title: 'triveous-h-d-designsystem/Components/Duolist',
   component: Duolist,
   parameters: {
     docs: {

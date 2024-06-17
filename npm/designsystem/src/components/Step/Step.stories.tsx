@@ -11,7 +11,7 @@ import StepButtons from '../StepButtons';
 import Stepper from '../Stepper';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Step',
+  title: 'triveous-h-d-designsystem/Components/Step',
   component: Step,
   parameters: {
     docs: {

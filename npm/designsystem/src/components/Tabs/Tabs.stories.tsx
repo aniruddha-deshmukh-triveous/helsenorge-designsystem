@@ -7,7 +7,7 @@ import Tabs from './Tabs';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Tabs',
+  title: 'triveous-h-d-designsystem/Components/Tabs',
   component: Tabs,
   subcomponents: { Tab },
   parameters: {

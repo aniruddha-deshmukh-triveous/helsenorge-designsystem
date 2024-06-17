@@ -9,7 +9,7 @@ import Loader from '../Loader';
 import { Overlay } from '../Loader/Loader';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Expander',
+  title: 'triveous-h-d-designsystem/Components/Expander',
   component: Expander,
   parameters: {
     docs: {

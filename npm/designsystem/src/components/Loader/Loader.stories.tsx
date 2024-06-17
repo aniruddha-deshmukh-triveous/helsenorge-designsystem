@@ -9,7 +9,7 @@ import Button from '../Button/Button';
 import Title from '../Title/Title';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Loader',
+  title: 'triveous-h-d-designsystem/Components/Loader',
   component: Loader,
   parameters: {
     docs: {

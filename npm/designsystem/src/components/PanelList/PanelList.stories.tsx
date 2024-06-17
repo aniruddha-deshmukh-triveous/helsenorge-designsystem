@@ -7,7 +7,7 @@ import Panel, { PanelVariant } from '../Panel';
 import PanelList from '../PanelList';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/PanelList',
+  title: 'triveous-h-d-designsystem/Components/PanelList',
   component: PanelList,
   parameters: {
     docs: {

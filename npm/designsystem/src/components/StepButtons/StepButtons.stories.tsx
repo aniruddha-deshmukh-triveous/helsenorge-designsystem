@@ -8,7 +8,7 @@ import Docs from '../../docs';
 import Button from '../Button';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/StepButtons',
+  title: 'triveous-h-d-designsystem/Components/StepButtons',
   component: StepButtons,
   parameters: {
     docs: {

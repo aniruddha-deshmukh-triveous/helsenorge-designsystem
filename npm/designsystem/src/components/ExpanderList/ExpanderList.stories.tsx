@@ -19,7 +19,7 @@ import StatusDot, { StatusDotVariant } from '../StatusDot';
 import Title from '../Title/Title';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/ExpanderList',
+  title: 'triveous-h-d-designsystem/Components/ExpanderList',
   component: ExpanderList,
   parameters: {
     docs: {

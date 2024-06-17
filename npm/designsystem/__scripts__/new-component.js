@@ -77,7 +77,7 @@ import ${componentName} from './${componentName}';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/${componentName}',
+  title: 'triveous-h-d-designsystem/Components/${componentName}',
   component: ${componentName},
   parameters: {
     docs: {

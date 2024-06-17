@@ -14,7 +14,7 @@ import Table, { ResponsiveTableVariant, TableHead, TableRow, TableHeadCell, Tabl
 import Trigger from '../Trigger/Trigger';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/HelpBubble',
+  title: 'triveous-h-d-designsystem/Components/HelpBubble',
   component: HelpBubble,
   parameters: {
     docs: {

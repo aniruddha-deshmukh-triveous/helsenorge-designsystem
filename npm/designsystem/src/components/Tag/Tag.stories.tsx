@@ -8,7 +8,7 @@ import Docs from '../../docs';
 import LawBook from '../Icons/LawBook';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Tag',
+  title: 'triveous-h-d-designsystem/Components/Tag',
   component: Tag,
   parameters: {
     docs: {

@@ -14,7 +14,7 @@ type IllustrationWallWithAndCustomArgs = React.ComponentProps<typeof LazyIllustr
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Illustration',
+  title: 'triveous-h-d-designsystem/Components/Illustration',
   component: LazyIllustration,
   parameters: {
     docs: {

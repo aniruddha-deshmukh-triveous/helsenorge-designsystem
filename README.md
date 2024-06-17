@@ -2,7 +2,7 @@
 
 This repository contains React components in NPM packages that implement the design:
 
-- @helsenorge/designsystem-react
+- triveous-h-d
 - @helsenorge/datepicker
 
 ## Using the React components
@@ -10,13 +10,13 @@ This repository contains React components in NPM packages that implement the des
 In your project:
 
 ```sh
-npm i @helsenorge/designsystem-react --save
+npm i triveous-h-d --save
 ```
 
 Using components:
 
 ```tsx
-import Button from '@helsenorge/designsystem-react/components/Button';
+import Button from 'triveous-h-d/components/Button';
 
 const ExampleComponent: React.FC = () => {
   return <Button>{'Click me'}</Button>;
@@ -27,7 +27,7 @@ const ExampleComponent: React.FC = () => {
 
 View our [Storybook](https://frankensteinstorybook.z1.web.core.windows.net/master/) to see all components and their props.
 
-## Making a new component in @helsenorge/designsystem-react
+## Making a new component in triveous-h-d
 
 ```sh
 npm i

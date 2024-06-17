@@ -1,17 +1,16 @@
 {
-  "name": "@helsenorge/designsystem-react",
+  "name": "triveous-h-d-designsystem",
   "sideEffects": false,
   "private": false,
-  "version": "7.9.0",
+  "version": "1.0.3",
   "description": "The official design system for Helsenorge built with React.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helsenorge/designsystem.git"
+    "url": "git@github.com:aniruddha-deshmukh-triveous/helsenorge-designsystem.git"
   },
-  "homepage": "https://helsenorge.design",
-  "author": "Helsenorge",
+  "author": "aniruddha",
   "maintainers": [
-    "ROX"
+    "aniruddha"
   ],
   "license": "MIT",
   "type": "module",

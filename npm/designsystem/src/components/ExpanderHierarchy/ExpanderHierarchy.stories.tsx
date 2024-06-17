@@ -7,7 +7,7 @@ import Docs from '../../docs';
 import { shortLoremText, mediumLoremText } from '../../utils/loremtext';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/ExpanderHierarchy',
+  title: 'triveous-h-d-designsystem/Components/ExpanderHierarchy',
   component: ExpanderHierarchy,
   parameters: {
     docs: {

@@ -11,7 +11,7 @@ import Eye from '../Icons/Eye';
 import SharingStatus from '../SharingStatus';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Tile',
+  title: 'triveous-h-d-designsystem/Components/Tile',
   component: Tile,
   parameters: {
     docs: {

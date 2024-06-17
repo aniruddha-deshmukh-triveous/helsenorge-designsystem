@@ -7,7 +7,7 @@ import PromoPanel from './PromoPanel';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/PromoPanel',
+  title: 'triveous-h-d-designsystem/Components/PromoPanel',
   component: PromoPanel,
   parameters: {
     docs: {

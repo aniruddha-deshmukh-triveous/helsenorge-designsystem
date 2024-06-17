@@ -46,7 +46,7 @@ const UseFocusableElementsExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useFocusableElements',
+  title: 'triveous-h-d-designsystem/Hooks/useFocusableElements',
   component: UseFocusableElementsExample,
   parameters: {
     docs: {

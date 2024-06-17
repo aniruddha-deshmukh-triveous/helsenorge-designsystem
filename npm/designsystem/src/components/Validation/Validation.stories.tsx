@@ -7,7 +7,7 @@ import Docs from '../../docs';
 import FormExample, { FormExampleVariants } from '../FormExample/FormExample';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Validation',
+  title: 'triveous-h-d-designsystem/Components/Validation',
   component: FormExample,
   parameters: {
     docs: {

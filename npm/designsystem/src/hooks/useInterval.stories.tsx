@@ -11,7 +11,7 @@ const UseIntervalExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useInterval',
+  title: 'triveous-h-d-designsystem/Hooks/useInterval',
   component: UseIntervalExample,
   parameters: {
     docs: {

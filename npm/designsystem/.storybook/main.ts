@@ -50,7 +50,7 @@ const config: StorybookConfig = {
     config.resolve = config.resolve || {};
     config.resolve.alias = {
       ...config.resolve.alias,
-      '@helsenorge/designsystem-react': path.resolve(__dirname, '../src'),
+      'triveous-h-d': path.resolve(__dirname, '../src'),
     };
 
     return config;

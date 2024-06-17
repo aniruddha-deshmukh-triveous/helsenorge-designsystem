@@ -41,7 +41,7 @@ const UseFocusToggleExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useFocusToggle',
+  title: 'triveous-h-d-designsystem/Hooks/useFocusToggle',
   component: UseFocusToggleExample,
   parameters: {
     docs: {

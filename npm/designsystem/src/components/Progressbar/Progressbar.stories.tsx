@@ -8,7 +8,7 @@ import Button from '../Button/Button';
 import Title from '../Title/Title';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/Progressbar',
+  title: 'triveous-h-d-designsystem/Components/Progressbar',
   component: Progressbar,
   parameters: {
     docs: {

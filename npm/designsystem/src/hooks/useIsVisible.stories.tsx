@@ -28,7 +28,7 @@ const UseIsVisibleExample: React.FC<UseIsVisibleExampleProps> = props => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useIsVisible',
+  title: 'triveous-h-d-designsystem/Hooks/useIsVisible',
   component: UseIsVisibleExample,
   parameters: {
     docs: {

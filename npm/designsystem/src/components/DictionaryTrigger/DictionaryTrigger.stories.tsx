@@ -8,7 +8,7 @@ import Docs from '../../docs';
 import { mediumLoremText } from '../../utils/loremtext';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/DictionaryTrigger',
+  title: 'triveous-h-d-designsystem/Components/DictionaryTrigger',
   component: DictionaryTrigger,
   parameters: {
     docs: {

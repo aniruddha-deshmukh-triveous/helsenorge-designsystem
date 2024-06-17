@@ -28,7 +28,7 @@ const UseRovingFocusExample: React.FC = () => {
 };
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Hooks/useRovingFocus',
+  title: 'triveous-h-d-designsystem/Hooks/useRovingFocus',
   component: UseRovingFocusExample,
   parameters: {
     docs: {

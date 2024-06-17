@@ -10,7 +10,7 @@ import Label from '../Label';
 import RadioButton from '../RadioButton/RadioButton';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/FormLayout',
+  title: 'triveous-h-d-designsystem/Components/FormLayout',
   component: FormLayout,
   parameters: {
     docs: {

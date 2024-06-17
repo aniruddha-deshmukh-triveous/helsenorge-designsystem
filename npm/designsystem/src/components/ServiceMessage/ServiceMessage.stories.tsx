@@ -7,7 +7,7 @@ import ServiceMessage from './ServiceMessage';
 import Docs from '../../docs';
 
 const meta = {
-  title: '@helsenorge/designsystem-react/Components/ServiceMessage',
+  title: 'triveous-h-d-designsystem/Components/ServiceMessage',
   component: ServiceMessage,
   parameters: {
     docs: {
