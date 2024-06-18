@@ -2,7 +2,7 @@
   "name": "triveous-h-d-datepicker",
   "sideEffects": false,
   "private": false,
-  "version": "1.0.4",
+  "version": "8.0.0",
   "description": "forked Helsenorge datepicker.",
   "repository": {
     "type": "git",
@@ -35,17 +35,16 @@
     "test": "vitest"
   },
   "peerDependencies": {
-    "triveous-h-d-designsystem": "^7.0.0",
     "classnames": "^2.5.1",
     "date-fns": "^3.3.1",
     "react": "^17.0.0",
-    "react-dom": "^17.0.0"
+    "react-dom": "^17.0.0",
+    "triveous-h-d-designsystem": "^7.0.0"
   },
   "dependencies": {
     "react-day-picker": "^8.10.0"
   },
   "devDependencies": {
-    "triveous-h-d-designsystem": "^1.0.0",
     "@rollup/plugin-replace": "^5.0.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^12.1.5",
@@ -63,6 +62,7 @@
     "rollup-plugin-copy": "^3.5.0",
     "rollup-plugin-generate-package-json": "^3.2.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
+    "triveous-h-d-designsystem": "^8.0.0",
     "typed-scss-modules": "^8.0.1",
     "typescript": "~5.4.4",
     "vite": "^5.2.8",
