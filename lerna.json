@@ -7,7 +7,7 @@
       "ignoreChanges": ["CHANGELOG.md"]
     },
     "publish": {
-      "scope": "@helsenorge/*",
+      "scope": "triveous-h-d-*",
       "registry": "https://pkgs.dev.azure.com/nhnfelles/_packaging/Helsenorge/npm/registry/"
     }
   }

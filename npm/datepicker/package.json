@@ -2,7 +2,7 @@
   "name": "triveous-h-d-datepicker",
   "sideEffects": false,
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "forked Helsenorge datepicker.",
   "repository": {
     "type": "git",

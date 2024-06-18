@@ -2,7 +2,7 @@
   "name": "triveous-h-d-designsystem",
   "sideEffects": false,
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The official design system for Helsenorge built with React.",
   "repository": {
     "type": "git",
